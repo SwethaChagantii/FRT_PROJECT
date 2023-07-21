@@ -46,7 +46,7 @@ To deploy the ShineMasters website locally, follow these steps:
 - Azure Static Web Apps
 - Azure Bot Service
 
-###Gallery of my Website 
+### Gallery of my Website 
 ### Home Page
 ![image](https://github.com/SwethaChagantii/FRT_PROJECT/blob/main/assets/github/Home%20Page.png)
 ![image](https://github.com/SwethaChagantii/FRT_PROJECT/blob/main/assets/github/About%20Page1.png)
