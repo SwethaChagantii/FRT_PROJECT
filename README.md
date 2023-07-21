@@ -57,16 +57,14 @@ To deploy the ShineMasters website locally, follow these steps:
 ![image](https://github.com/SwethaChagantii/FRT_PROJECT/blob/main/assets/github/About%20Page6.png)
 ![image](https://github.com/SwethaChagantii/FRT_PROJECT/blob/main/assets/github/About%20Page7.png)
 ### About Page
-![image](https://github.com/SwethaChagantii/FRT_PROJECT/blob/main/assets/github/About%20Page8.png)
-![image](https://github.com/SwethaChagantii/FRT_PROJECT/blob/main/assets/github/About%20Page9.png)
-### Team 
-![image](https://github.com/SwethaChagantii/FRT_PROJECT/blob/main/assets/github/Team.png)
+![image](https://github.com/SwethaChagantii/FRT_PROJECT/blob/main/assets/github/About%20Page%208-1.png)
+![image](https://github.com/SwethaChagantii/FRT_PROJECT/blob/main/assets/github/Team-1.png)
+![image](https://github.com/SwethaChagantii/FRT_PROJECT/blob/main/assets/github/About%20Page%209-1.png)
 
 ### Services Page
 ![image](https://github.com/SwethaChagantii/FRT_PROJECT/blob/main/assets/github/Services%20Page1.png)
 ![image](https://github.com/SwethaChagantii/FRT_PROJECT/blob/main/assets/github/Services%20Page2.png)
 ![image](https://github.com/SwethaChagantii/FRT_PROJECT/blob/main/assets/github/Services%20Page3.png)
-
 
 ### Contact Page
 ![image](https://github.com/SwethaChagantii/FRT_PROJECT/blob/main/assets/github/Contact%20Page1.png)
