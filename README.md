@@ -24,7 +24,7 @@ PrimeCardSol is a fintech website revolutionizing banking cards. It provides a s
 > 3. Financial Goals
 ## Deployment Process
 
-To deploy the ShineMasters website locally, follow these steps:
+To deploy the PrimeCardSol website locally, follow these steps:
 
 1. Clone the repository from GitHub: ``` git clone https://github.com/<user_name>/FRT_PROJECT ```
 
