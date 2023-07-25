@@ -3,7 +3,7 @@ PrimeCardSol is a fintech website revolutionizing banking cards. It provides a s
 
 **Project Link:** https://salmon-island-02e015210.3.azurestaticapps.net
 
-**Project Demo Link:** https://clipchamp.com/watch/zxFcrnTwvpY
+
 # Features 
 > 1. Mobile Banking Apps
 
